@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Blog App ](#-blog-app-)
+- [📖 Hello-Rails-React ](#-hello-rails-react-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Blog App <a name="about-project"></a>
+# 📖 Hello-Rails-React <a name="about-project"></a>
 
 Hello-Rails-React is a project integrating React.js with Ruby on Rails. It features a dynamic app with randomized greetings, using a Postgres database, React components, and Redux for state management.
 
