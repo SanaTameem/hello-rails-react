@@ -147,6 +147,6 @@ I would like to thank Microverse for including this in their curriculum.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/SanaTameem/hello-rails-react/blob/feature/project-setup/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
